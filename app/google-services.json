@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "48668341541",
+    "firebase_url": "https://ornitorenk-87109-default-rtdb.firebaseio.com",
+    "project_id": "ornitorenk-87109",
+    "storage_bucket": "ornitorenk-87109.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48668341541:android:6f288e8c05084cc38d56cc",
+        "android_client_info": {
+          "package_name": "com.example.zimzezor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "API_KEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
